@@ -27,4 +27,5 @@ Business Insights
 Dashboard <img width="1326" height="737" alt="Financial_analytics_Dashboard_" src="https://github.com/user-attachments/assets/4f296939-d541-481a-84f8-8ad086281000" />
 
 Final conclusion 
+
 The dashboard provides a clear overview of sales and profit performance, highlighting monthly trends, top-performing product categories, regional profitability, customer segments, and salesperson performance. These insights can help businesses identify growth opportunities, monitor profitability, and make data-driven decisions
